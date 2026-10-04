@@ -1,25 +1,23 @@
-# Divyam Khatri — engineering portfolio
+# Divyam Khatri — AI & application development
 
-Selected work across web applications, backend services, developer tools, and connected systems.
+I'm a Senior Software Engineer with experience building and integrating applications, and an M.S. Computer Science student at Georgia Tech specializing in Artificial Intelligence.
 
-I'm a Senior Software Engineer at Bell Flight (Textron), based in Austin, and an M.S. Computer Science student at Georgia Tech. These writeups describe my personal projects and tooling work at a level suitable for public discussion.
+My projects span machine learning, web applications, backend services, and automation.
 
-## Start here
+## Selected projects
 
-| Project | Engineering focus | Read the writeup |
-| --- | --- | --- |
-| LiveLife | Publishing workflows, relational data, authentication, and rich-text rendering | [Web application](projects/livelife.md) |
-| OmniNode | Event-driven services, synthetic telemetry, model evaluation, and persistence | [Backend and data](projects/omninode.md) |
-| KlipperViewer | Streaming UI state, connection recovery, and G-code visualization | [Connected-device frontend](projects/klipperviewer.md) |
+| Project | Focus |
+| --- | --- |
+| [OmniNode](projects/omninode.md) | Machine-learning anomaly detection, streaming data, and a backend API |
+| [LiveLife](projects/livelife.md) | Full-stack application development and relational data |
+| [KlipperViewer](projects/klipperviewer.md) | Real-time interfaces and connected systems |
 
-Each writeup explains the problem, implementation, and current limits. This repository contains documentation; the underlying implementations are private. It does not contain employer code, operational data, or a runnable demo.
+These are short project summaries. The underlying source remains private.
 
-## Public team work
+## Team projects
 
-- [ShopIQ](https://github.com/arugyani/shopIQ): exploring LLM-assisted product research.
-- [Vision UnLocked](https://github.com/arugyani/vision-unlocked): exploring computer-vision-based communication.
-- [Curtainfy](https://devpost.com/software/curtainfy): a HackDFW 2022 team prototype; Grand Prize and Google Sponsor Challenge winner. I focused on the React Native frontend and API integration.
+- [ShopIQ](https://github.com/arugyani/shopIQ) — LLM-assisted product research.
+- [Vision UnLocked](https://github.com/arugyani/vision-unlocked) — computer-vision-based communication.
+- [Curtainfy](https://devpost.com/software/curtainfy) — HackDFW Grand Prize and Google Sponsor Challenge winner; my work focused on the frontend and API integration.
 
-## Contact
-
-I'm interested in backend, full-stack, and developer-tooling roles. [Connect on LinkedIn](https://www.linkedin.com/in/divyamkhatri/).
+Interested in **AI engineering and application engineering** roles. [Connect on LinkedIn](https://www.linkedin.com/in/divyamkhatri/).
