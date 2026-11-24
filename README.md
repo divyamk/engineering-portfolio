@@ -9,7 +9,6 @@ My projects span machine learning, web applications, backend services, and autom
 | Project | Focus |
 | --- | --- |
 | [OmniNode](projects/omninode.md) | Machine-learning anomaly detection, streaming data, and a backend API |
-| [LiveLife](projects/livelife.md) | Full-stack application development and relational data |
 | [KlipperViewer](projects/klipperviewer.md) | Real-time interfaces and connected systems |
 
 These are short project summaries. The underlying source remains private.
